@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi there 👋, I'm Alexander Mazai
+# Hi there 👋, I'm Alexander
 
 ### React Native Developer
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasha-mazai-288474419/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wnghmu)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazday747@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/sasha-mazai-288474419/))
 
 </div>
 
@@ -58,7 +58,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandermazai&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="50%"/>
-</div>
