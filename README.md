@@ -6,7 +6,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wnghmu)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazday747@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/sasha-mazai-288474419/))
 
 </div>
 
@@ -47,12 +47,18 @@
 ### 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aleksandermazai&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleksandermazai&theme=tokyonight" alt="GitHub Streak Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=aleksandermazai&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandermazai&layout=compact&theme=tokyonight" alt="Top Languages" width="50%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleksandermazai&theme=tokyonight" alt="GitHub Details" width="98%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandermazai&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="50%"/>
 </div>
