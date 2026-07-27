@@ -49,7 +49,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleksandermazai&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aleksandermazai&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleksandermazai&theme=tokyonight" alt="GitHub Streak Stats" width="48%"/>
 </div>
 
