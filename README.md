@@ -56,5 +56,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleksandermazai&theme=tokyonight" alt="GitHub Details" width="98%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleksandermazai&theme=tokyonight&hide=joined" alt="GitHub Details" width="98%"/>
 </div>
