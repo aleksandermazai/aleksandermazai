@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-* 🎓 **Education:** Faculty of Mechanics and Mathematics at Belarusian State University (2024–2026)
+* 🎓 **Education:** Faculty of Mechanics and Mathematics at Belarusian State University (2024–2028)
 * 📍 **Location:** Minsk, Belarus (Open for remote opportunities worldwide)[cite: 1]
 * 💡 **Engineering Mindset:** Strong analytical background in Mechanics & Mathematical Modeling, allowing me to easily handle complex business logic, algorithmic challenges, and state management[cite: 1].
 * ⚡ **Core Focus:** Building high-performance cross-platform mobile applications with clean UI, seamless API integrations, and smooth 60 FPS user interactions[cite: 1].
