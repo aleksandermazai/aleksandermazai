@@ -56,16 +56,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aleksandermazai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleksandermazai&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aleksandermazai&theme=tokyonight" alt="GitHub Stats" width="98%"/>
-</div>
-
-<div align="center">
-  <div style="height: 185px; overflow: hidden; display: inline-block;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleksandermazai&theme=tokyonight" alt="GitHub Details" width="100%"/>
-  </div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleksandermazai&theme=tokyonight&hide=joined" alt="GitHub Details" width="98%"/>
 </div>
